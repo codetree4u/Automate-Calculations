@@ -15,7 +15,7 @@ First, let's start with some calculations on a list of prices for 5 loans.
 ---
 ## Usage
 
-The code is intended for use from a Python command line or an EDI such as Visual Studio Code.
+The code is intended for use from a Python command line or an EDI such as Visual Studio Code.  
 Once Python is install in your computer, scripts can be run by typing python into a command-line window, followed by the path to your script if you have both versions.
 
 ---
